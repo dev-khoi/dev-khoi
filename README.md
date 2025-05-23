@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kainguyen11
+- 👋 Hi, I’m Khoi
 - 🌱 I’m currently learning software dev
 - 📫 reach me through daknguyen111@gmail.com
 
