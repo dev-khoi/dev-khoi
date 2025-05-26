@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khoi
 - 🌱 I’m currently learning software dev
-- 📫 reach me through daknguyen111@gmail.com
+- 📫 Reach me through daknguyen111@gmail.com
 
 
 <!---
