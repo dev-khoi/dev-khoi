@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi, I’m Khoi<br>🎓 I’m currently pursuing my Bachelor’s degree<br>💻 I’m passionate about software development, web technologies, and always eager to learn new tools and frameworks
+👋 Hi, I’m Khoi<br>🎓 I’m currently pursuing my Bachelor’s degree<br>
+
+Check out my portfolio -> [**portfolio**](https://dev-khoi.github.io/portfolio/)
 
 
 # 💻 Tech Stack:
@@ -9,7 +11,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daknguyen)
 
-
+<!--
 ## 🔝 Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-khoi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
