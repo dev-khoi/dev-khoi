@@ -1,5 +1,8 @@
-![Spinning Torus, animated ASCII art](assets/spinning-torus.gif)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.gif">
+  <img src="assets/hero-dark.gif" alt="Animated ASCII art" width="720">
+</picture>
 # my-project
 
 A tiny tool that does one thing well.
