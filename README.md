@@ -1,3 +1,8 @@
+![Spinning Torus, animated ASCII art](assets/spinning-torus.gif)
+
+# my-project
+
+A tiny tool that does one thing well.
 # About Me:
 👋 Hi, I’m Khoi<br>🎓 I’m currently pursuing my Bachelor’s degree<br>
 
