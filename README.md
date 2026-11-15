@@ -1,11 +1,17 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.gif">
-  <img src="assets/hero-dark.gif" alt="Animated ASCII art" width="720">
-</picture>
-# my-project
+<p align="center">
+  <img src="assets/spinning-torus.gif" alt="Spinning Torus, animated ASCII art" width="720">
+</p>
 
-A tiny tool that does one thing well.
+<h1 align="center">my-project</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/github/license/you/my-project" alt="License">
+  <img src="https://img.shields.io/github/stars/you/my-project" alt="Stars">
+</p>
+
+<p align="center">A tiny tool that does one thing well.</p>
+
+
 # About Me:
 👋 Hi, I’m Khoi<br>🎓 I’m currently pursuing my Bachelor’s degree<br>
 
