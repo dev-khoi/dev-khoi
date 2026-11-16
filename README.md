@@ -1,4 +1,10 @@
-<img src="gitmas/tree.gif" width="380" alt="My Merry Gitmas tree" />
+  ```html
+   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="gitmas/tree.gif" />
+     <source media="(prefers-color-scheme: light)" srcset="gitmas/tree-light.gif" />
+     <img src="gitmas/tree-light.gif" width="420" alt="My Merry Gitmas tree" />
+   </picture>
+   ```
 
 # About Me:
 👋 Hi, I’m Khoi<br>🎓 I’m currently pursuing my Bachelor’s degree<br>
