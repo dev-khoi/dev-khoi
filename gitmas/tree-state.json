@@ -5,9 +5,9 @@
   "contributions": 495,
   "activeWeeks": 36,
   "longestStreak": 25,
-  "scale": 0.8676423218053488,
-  "fullness": 0.7882277148885584,
-  "twinkle": 0.7369682696802135,
+  "scale": 0.8996045915761144,
+  "fullness": 0.7729285308902091,
+  "twinkle": 0.29,
   "weeks": [
     {
       "index": 0,
@@ -385,22 +385,27 @@
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "share": 0.6842105263157895
+      "share": 0.6
     },
     {
       "name": "Python",
       "color": "#3572A5",
-      "share": 0.21052631578947367
+      "share": 0.2
+    },
+    {
+      "name": "HTML",
+      "color": "#e34c26",
+      "share": 0.1
     },
     {
       "name": "C++",
       "color": "#f34b7d",
-      "share": 0.05263157894736842
+      "share": 0.05
     },
     {
       "name": "JavaScript",
       "color": "#f1e05a",
-      "share": 0.05263157894736842
+      "share": 0.05
     }
   ],
   "observedOn": "2026-11-15",
