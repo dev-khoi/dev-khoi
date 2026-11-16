@@ -1,4 +1,5 @@
-<img src="koi/koi.gif" width="256" alt="My koi" />
+<img src="gitmas/tree.gif" width="380" alt="My Merry Gitmas tree" />
+
 # About Me:
 👋 Hi, I’m Khoi<br>🎓 I’m currently pursuing my Bachelor’s degree<br>
 
