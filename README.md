@@ -1,3 +1,4 @@
+<img src="koi/koi.gif" width="256" alt="My koi" />
 # About Me:
 👋 Hi, I’m Khoi<br>🎓 I’m currently pursuing my Bachelor’s degree<br>
 
