@@ -1,0 +1,408 @@
+{
+  "login": "dev-khoi",
+  "year": 2026,
+  "seed": 1299292730,
+  "contributions": 495,
+  "activeWeeks": 36,
+  "longestStreak": 25,
+  "scale": 0.8676423218053488,
+  "fullness": 0.7882277148885584,
+  "twinkle": 0.7369682696802135,
+  "weeks": [
+    {
+      "index": 0,
+      "startsOn": "2025-12-29",
+      "count": 0,
+      "observed": true,
+      "longest": false
+    },
+    {
+      "index": 1,
+      "startsOn": "2026-01-05",
+      "count": 2,
+      "observed": true,
+      "longest": true
+    },
+    {
+      "index": 2,
+      "startsOn": "2026-01-12",
+      "count": 20,
+      "observed": true,
+      "longest": true
+    },
+    {
+      "index": 3,
+      "startsOn": "2026-01-19",
+      "count": 2,
+      "observed": true,
+      "longest": true
+    },
+    {
+      "index": 4,
+      "startsOn": "2026-01-26",
+      "count": 1,
+      "observed": true,
+      "longest": true
+    },
+    {
+      "index": 5,
+      "startsOn": "2026-02-02",
+      "count": 12,
+      "observed": true,
+      "longest": true
+    },
+    {
+      "index": 6,
+      "startsOn": "2026-02-09",
+      "count": 25,
+      "observed": true,
+      "longest": true
+    },
+    {
+      "index": 7,
+      "startsOn": "2026-02-16",
+      "count": 4,
+      "observed": true,
+      "longest": true
+    },
+    {
+      "index": 8,
+      "startsOn": "2026-02-23",
+      "count": 17,
+      "observed": true,
+      "longest": true
+    },
+    {
+      "index": 9,
+      "startsOn": "2026-03-02",
+      "count": 33,
+      "observed": true,
+      "longest": true
+    },
+    {
+      "index": 10,
+      "startsOn": "2026-03-09",
+      "count": 11,
+      "observed": true,
+      "longest": true
+    },
+    {
+      "index": 11,
+      "startsOn": "2026-03-16",
+      "count": 30,
+      "observed": true,
+      "longest": true
+    },
+    {
+      "index": 12,
+      "startsOn": "2026-03-23",
+      "count": 23,
+      "observed": true,
+      "longest": true
+    },
+    {
+      "index": 13,
+      "startsOn": "2026-03-30",
+      "count": 14,
+      "observed": true,
+      "longest": true
+    },
+    {
+      "index": 14,
+      "startsOn": "2026-04-06",
+      "count": 13,
+      "observed": true,
+      "longest": true
+    },
+    {
+      "index": 15,
+      "startsOn": "2026-04-13",
+      "count": 6,
+      "observed": true,
+      "longest": true
+    },
+    {
+      "index": 16,
+      "startsOn": "2026-04-20",
+      "count": 15,
+      "observed": true,
+      "longest": true
+    },
+    {
+      "index": 17,
+      "startsOn": "2026-04-27",
+      "count": 34,
+      "observed": true,
+      "longest": true
+    },
+    {
+      "index": 18,
+      "startsOn": "2026-05-04",
+      "count": 18,
+      "observed": true,
+      "longest": true
+    },
+    {
+      "index": 19,
+      "startsOn": "2026-05-11",
+      "count": 6,
+      "observed": true,
+      "longest": true
+    },
+    {
+      "index": 20,
+      "startsOn": "2026-05-18",
+      "count": 2,
+      "observed": true,
+      "longest": true
+    },
+    {
+      "index": 21,
+      "startsOn": "2026-05-25",
+      "count": 29,
+      "observed": true,
+      "longest": true
+    },
+    {
+      "index": 22,
+      "startsOn": "2026-06-01",
+      "count": 6,
+      "observed": true,
+      "longest": true
+    },
+    {
+      "index": 23,
+      "startsOn": "2026-06-08",
+      "count": 26,
+      "observed": true,
+      "longest": true
+    },
+    {
+      "index": 24,
+      "startsOn": "2026-06-15",
+      "count": 6,
+      "observed": true,
+      "longest": true
+    },
+    {
+      "index": 25,
+      "startsOn": "2026-06-22",
+      "count": 8,
+      "observed": true,
+      "longest": true
+    },
+    {
+      "index": 26,
+      "startsOn": "2026-06-29",
+      "count": 0,
+      "observed": true,
+      "longest": false
+    },
+    {
+      "index": 27,
+      "startsOn": "2026-07-06",
+      "count": 0,
+      "observed": true,
+      "longest": false
+    },
+    {
+      "index": 28,
+      "startsOn": "2026-07-13",
+      "count": 0,
+      "observed": true,
+      "longest": false
+    },
+    {
+      "index": 29,
+      "startsOn": "2026-07-20",
+      "count": 0,
+      "observed": true,
+      "longest": false
+    },
+    {
+      "index": 30,
+      "startsOn": "2026-07-27",
+      "count": 0,
+      "observed": true,
+      "longest": false
+    },
+    {
+      "index": 31,
+      "startsOn": "2026-08-03",
+      "count": 0,
+      "observed": true,
+      "longest": false
+    },
+    {
+      "index": 32,
+      "startsOn": "2026-08-10",
+      "count": 0,
+      "observed": true,
+      "longest": false
+    },
+    {
+      "index": 33,
+      "startsOn": "2026-08-17",
+      "count": 0,
+      "observed": true,
+      "longest": false
+    },
+    {
+      "index": 34,
+      "startsOn": "2026-08-24",
+      "count": 10,
+      "observed": true,
+      "longest": false
+    },
+    {
+      "index": 35,
+      "startsOn": "2026-08-31",
+      "count": 1,
+      "observed": true,
+      "longest": false
+    },
+    {
+      "index": 36,
+      "startsOn": "2026-09-07",
+      "count": 19,
+      "observed": true,
+      "longest": false
+    },
+    {
+      "index": 37,
+      "startsOn": "2026-09-14",
+      "count": 10,
+      "observed": true,
+      "longest": false
+    },
+    {
+      "index": 38,
+      "startsOn": "2026-09-21",
+      "count": 21,
+      "observed": true,
+      "longest": false
+    },
+    {
+      "index": 39,
+      "startsOn": "2026-09-28",
+      "count": 5,
+      "observed": true,
+      "longest": false
+    },
+    {
+      "index": 40,
+      "startsOn": "2026-10-05",
+      "count": 17,
+      "observed": true,
+      "longest": false
+    },
+    {
+      "index": 41,
+      "startsOn": "2026-10-12",
+      "count": 5,
+      "observed": true,
+      "longest": false
+    },
+    {
+      "index": 42,
+      "startsOn": "2026-10-19",
+      "count": 0,
+      "observed": true,
+      "longest": false
+    },
+    {
+      "index": 43,
+      "startsOn": "2026-10-26",
+      "count": 2,
+      "observed": true,
+      "longest": false
+    },
+    {
+      "index": 44,
+      "startsOn": "2026-11-02",
+      "count": 13,
+      "observed": true,
+      "longest": false
+    },
+    {
+      "index": 45,
+      "startsOn": "2026-11-09",
+      "count": 29,
+      "observed": true,
+      "longest": false
+    },
+    {
+      "index": 46,
+      "startsOn": "2026-11-16",
+      "count": 0,
+      "observed": false,
+      "longest": false
+    },
+    {
+      "index": 47,
+      "startsOn": "2026-11-23",
+      "count": 0,
+      "observed": false,
+      "longest": false
+    },
+    {
+      "index": 48,
+      "startsOn": "2026-11-30",
+      "count": 0,
+      "observed": false,
+      "longest": false
+    },
+    {
+      "index": 49,
+      "startsOn": "2026-12-07",
+      "count": 0,
+      "observed": false,
+      "longest": false
+    },
+    {
+      "index": 50,
+      "startsOn": "2026-12-14",
+      "count": 0,
+      "observed": false,
+      "longest": false
+    },
+    {
+      "index": 51,
+      "startsOn": "2026-12-21",
+      "count": 0,
+      "observed": false,
+      "longest": false
+    },
+    {
+      "index": 52,
+      "startsOn": "2026-12-28",
+      "count": 0,
+      "observed": false,
+      "longest": false
+    }
+  ],
+  "languages": [
+    {
+      "name": "TypeScript",
+      "color": "#3178c6",
+      "share": 0.6842105263157895
+    },
+    {
+      "name": "Python",
+      "color": "#3572A5",
+      "share": 0.21052631578947367
+    },
+    {
+      "name": "C++",
+      "color": "#f34b7d",
+      "share": 0.05263157894736842
+    },
+    {
+      "name": "JavaScript",
+      "color": "#f1e05a",
+      "share": 0.05263157894736842
+    }
+  ],
+  "observedOn": "2026-11-15",
+  "demo": false
+}
