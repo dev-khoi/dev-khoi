@@ -10,7 +10,6 @@
 
 <br>
 
-<!-- GitHub Statistics -->
 <div align="center">
   <a href="https://github.com/dev-khoi#year-list-container">
     <picture>
