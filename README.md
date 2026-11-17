@@ -12,19 +12,17 @@
 
 <!-- GitHub Statistics -->
 <div align="center">
-  <a href="https://github.com/dev-khoi">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=dev-khoi&show_icons=true&theme=transparent&hide_border=true"
-      alt="GitHub Stats"
-      height="180"
-    />
+  <a href="https://github.com/dev-khoi#year-list-container">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="cards/stats-dark.svg">
+      <img src="cards/stats-light.svg" width="45%" alt="GitHub Stats">
+    </picture>
   </a>
   <a href="https://github.com/dev-khoi?tab=repositories">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-khoi&layout=compact&theme=transparent&hide_border=true"
-      alt="Top Languages"
-      height="180"
-    />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="cards/languages-dark.svg">
+      <img src="cards/languages-light.svg" width="45%" alt="Languages by Repo Count">
+    </picture>
   </a>
 </div>
 
