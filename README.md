@@ -1,9 +1,10 @@
+
 <!-- Gitmas Tree -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="gitmas/tree.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="gitmas/tree-light.gif" />
-    <img src="gitmas/tree-light.gif" width="420" alt="Merry Gitmas Tree" />
+    <source media="(prefers-color-scheme: dark)" srcset="gitmas/tree.gif">
+    <source media="(prefers-color-scheme: light)" srcset="gitmas/tree-light.gif">
+    <img src="gitmas/tree-light.gif" width="420" alt="Merry Gitmas Tree">
   </picture>
 </div>
 
@@ -11,14 +12,14 @@
 
 <!-- GitHub Statistics -->
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/dev-khoi">
     <img
       src="https://github-readme-stats.vercel.app/api?username=dev-khoi&show_icons=true&theme=transparent&hide_border=true"
       alt="GitHub Stats"
       height="180"
     />
   </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+  <a href="https://github.com/dev-khoi?tab=repositories">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-khoi&layout=compact&theme=transparent&hide_border=true"
       alt="Top Languages"
