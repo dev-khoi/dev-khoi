@@ -13,14 +13,14 @@
 <div align="center">
   <a href="https://github.com/YOUR_USERNAME">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api?username=dev-khoi&show_icons=true&theme=transparent&hide_border=true"
       alt="GitHub Stats"
       height="180"
     />
   </a>
   <a href="https://github.com/YOUR_USERNAME?tab=repositories">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-khoi&layout=compact&theme=transparent&hide_border=true"
       alt="Top Languages"
       height="180"
     />
