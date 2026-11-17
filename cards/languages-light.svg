@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="280" viewBox="0 0 480 280" role="img" aria-labelledby="title desc">
+<title id="title">Languages by Repo Count</title>
+<desc id="desc">Primary language · Public non-fork repositories. TypeScript: 12; Python: 4; HTML: 2; C++: 1; JavaScript: 1</desc>
+<rect x="0.5" y="0.5" width="479" height="279" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<g font-family="Segoe UI, Ubuntu, sans-serif">
+<text x="24" y="38" fill="#0969da" font-size="20" font-weight="600">Languages by Repo Count</text>
+<text x="24" y="62" fill="#656d76" font-size="12">Primary language · Public non-fork repositories</text>
+<text x="24" y="96" fill="#1f2328" font-size="14">TypeScript</text>
+<text x="456" y="96" text-anchor="end" fill="#1f2328" font-size="14" font-weight="600">12</text>
+<rect x="220" y="87" width="120.00" height="8" rx="4" fill="#0969da"/>
+<text x="24" y="125" fill="#1f2328" font-size="14">Python</text>
+<text x="456" y="125" text-anchor="end" fill="#1f2328" font-size="14" font-weight="600">4</text>
+<rect x="220" y="116" width="40.00" height="8" rx="4" fill="#0969da"/>
+<text x="24" y="154" fill="#1f2328" font-size="14">HTML</text>
+<text x="456" y="154" text-anchor="end" fill="#1f2328" font-size="14" font-weight="600">2</text>
+<rect x="220" y="145" width="20.00" height="8" rx="4" fill="#0969da"/>
+<text x="24" y="183" fill="#1f2328" font-size="14">C++</text>
+<text x="456" y="183" text-anchor="end" fill="#1f2328" font-size="14" font-weight="600">1</text>
+<rect x="220" y="174" width="10.00" height="8" rx="4" fill="#0969da"/>
+<text x="24" y="212" fill="#1f2328" font-size="14">JavaScript</text>
+<text x="456" y="212" text-anchor="end" fill="#1f2328" font-size="14" font-weight="600">1</text>
+<rect x="220" y="203" width="10.00" height="8" rx="4" fill="#0969da"/>
+</g></svg>

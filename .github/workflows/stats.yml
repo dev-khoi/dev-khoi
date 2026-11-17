@@ -1,0 +1,49 @@
+name: Update README statistics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '43 2 * * *'
+  push:
+    paths:
+      - '.github/workflows/stats.yml'
+      - '.github/scripts/generate_cards.py'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-statistics
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate light and dark cards
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python .github/scripts/generate_cards.py --username "${{ github.repository_owner }}"
+      - name: Publish cards
+        env:
+          GIT_AUTHOR_NAME: github-actions[bot]
+          GIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          GIT_COMMITTER_NAME: github-actions[bot]
+          GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+        run: |
+          git add -- cards/stats-dark.svg cards/stats-light.svg cards/languages-dark.svg cards/languages-light.svg
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'Update README statistics'
+          for attempt in 1 2 3; do
+            git pull --rebase origin "$GITHUB_REF_NAME"
+            if git push origin "HEAD:refs/heads/$GITHUB_REF_NAME"; then exit 0; fi
+            sleep 5
+          done
+          echo 'Could not publish cards after three attempts.' >&2
+          exit 1
