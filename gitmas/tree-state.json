@@ -2,12 +2,12 @@
   "login": "dev-khoi",
   "year": 2026,
   "seed": 1299292730,
-  "contributions": 525,
+  "contributions": 531,
   "activeWeeks": 37,
   "longestStreak": 25,
-  "scale": 0.9019813698348593,
-  "fullness": 0.7748074069840786,
-  "twinkle": 0.55,
+  "scale": 0.9024485039282096,
+  "fullness": 0.7751766829472012,
+  "twinkle": 0.61,
   "weeks": [
     {
       "index": 0,
@@ -334,7 +334,7 @@
     {
       "index": 46,
       "startsOn": "2026-11-16",
-      "count": 30,
+      "count": 36,
       "observed": true,
       "longest": false
     },
@@ -385,29 +385,29 @@
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "share": 0.6
+      "share": 0.5714285714285714
     },
     {
       "name": "Python",
       "color": "#3572A5",
-      "share": 0.2
+      "share": 0.19047619047619047
     },
     {
       "name": "HTML",
       "color": "#e34c26",
-      "share": 0.1
-    },
-    {
-      "name": "C++",
-      "color": "#f34b7d",
-      "share": 0.05
+      "share": 0.09523809523809523
     },
     {
       "name": "JavaScript",
       "color": "#f1e05a",
-      "share": 0.05
+      "share": 0.09523809523809523
+    },
+    {
+      "name": "C++",
+      "color": "#f34b7d",
+      "share": 0.047619047619047616
     }
   ],
-  "observedOn": "2026-11-18",
+  "observedOn": "2026-11-19",
   "demo": false
 }
