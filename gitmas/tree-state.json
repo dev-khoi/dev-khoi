@@ -2,12 +2,12 @@
   "login": "dev-khoi",
   "year": 2026,
   "seed": 1299292730,
-  "contributions": 545,
+  "contributions": 552,
   "activeWeeks": 38,
   "longestStreak": 25,
-  "scale": 0.903528324537249,
-  "fullness": 0.7760302960768767,
-  "twinkle": 0.2,
+  "scale": 0.9040630334927309,
+  "fullness": 0.7764529909033445,
+  "twinkle": 0.21,
   "weeks": [
     {
       "index": 0,
@@ -341,7 +341,7 @@
     {
       "index": 47,
       "startsOn": "2026-11-23",
-      "count": 7,
+      "count": 14,
       "observed": true,
       "longest": false
     },
@@ -408,6 +408,6 @@
       "share": 0.047619047619047616
     }
   ],
-  "observedOn": "2026-11-25",
+  "observedOn": "2026-11-26",
   "demo": false
 }
